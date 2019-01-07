@@ -1,11 +1,14 @@
 {
-  "name": "binary-tests",
+  "name": "@staltz/binary-tests",
   "description": "",
   "version": "1.0.0",
-  "homepage": "https://github.com/dominictarr/binary-tests",
+  "homepage": "https://github.com/staltz/binary-tests",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dominictarr/binary-tests.git"
+    "url": "git://github.com/staltz/binary-tests.git"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "dependencies": {
     "bipf": "^1.2.1",
